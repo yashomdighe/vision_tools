@@ -1,0 +1,6 @@
+name: /Users/yashomdighe/Developer/Personal/vision_tools/env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /Users/yashomdighe/Developer/Personal/vision_tools/env
